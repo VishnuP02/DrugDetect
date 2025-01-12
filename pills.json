@@ -1,0 +1,170 @@
+[
+    {
+        "name": "Aspirin 81mg",
+        "shape": "round",
+        "color": "yellow",
+        "imprint": "BAYER"
+    },
+    {
+        "name": "Ibuprofen 200mg",
+        "shape": "oval",
+        "color": "brown",
+        "imprint": "IBU 200"
+    },
+    {
+        "name": "Acetaminophen 500mg",
+        "shape": "caplet",
+        "color": "white",
+        "imprint": "L484"
+    },
+    {
+        "name": "Diphenhydramine 25mg",
+        "shape": "capsule",
+        "color": "pink and white",
+        "imprint": "44 329"
+    },
+    {
+        "name": "Naproxen 220mg",
+        "shape": "oval",
+        "color": "blue",
+        "imprint": "N220"
+    },
+    {
+        "name": "Cetirizine 10mg",
+        "shape": "round",
+        "color": "white",
+        "imprint": "10"
+    },
+    {
+        "name": "Loratadine 10mg",
+        "shape": "round",
+        "color": "white",
+        "imprint": "L612"
+    },
+    {
+        "name": "Omeprazole 20mg",
+        "shape": "capsule",
+        "color": "purple and pink",
+        "imprint": "20"
+    },
+    {
+        "name": "Vitamin D 1000 IU",
+        "shape": "oval",
+        "color": "yellow",
+        "imprint": "D1"
+    },
+    {
+        "name": "Multivitamin",
+        "shape": "tablet",
+        "color": "orange",
+        "imprint": "CENTRUM"
+    },
+    {
+        "name": "Amoxicillin 500mg",
+        "shape": "capsule",
+        "color": "pink and red",
+        "imprint": "AMOX 500"
+    },
+    {
+        "name": "Metformin 500mg",
+        "shape": "round",
+        "color": "white",
+        "imprint": "H 102"
+    },
+    {
+        "name": "Atorvastatin 10mg",
+        "shape": "oval",
+        "color": "white",
+        "imprint": "RDY 123"
+    },
+    {
+        "name": "Levothyroxine 50mcg",
+        "shape": "round",
+        "color": "yellow",
+        "imprint": "50"
+    },
+    {
+        "name": "Losartan 50mg",
+        "shape": "oval",
+        "color": "green",
+        "imprint": "LU H12"
+    },
+    {
+        "name": "Hydrochlorothiazide 25mg",
+        "shape": "round",
+        "color": "orange",
+        "imprint": "H 25"
+    },
+    {
+        "name": "Prednisone 10mg",
+        "shape": "round",
+        "color": "white",
+        "imprint": "WATSON 406"
+    },
+    {
+        "name": "Gabapentin 300mg",
+        "shape": "capsule",
+        "color": "yellow",
+        "imprint": "G502"
+    },
+    {
+        "name": "Alprazolam 0.5mg",
+        "shape": "oval",
+        "color": "pink",
+        "imprint": "S 90 3"
+    },
+    {
+        "name": "Zolpidem 10mg",
+        "shape": "oval",
+        "color": "white",
+        "imprint": "54 553"
+    },
+    {
+        "name": "Tramadol 50mg",
+        "shape": "capsule",
+        "color": "green and yellow",
+        "imprint": "319"
+    },
+    {
+        "name": "Ciprofloxacin 500mg",
+        "shape": "oval",
+        "color": "white",
+        "imprint": "CIP 500"
+    },
+    {
+        "name": "Clopidogrel 75mg",
+        "shape": "round",
+        "color": "pink",
+        "imprint": "75"
+    },
+    {
+        "name": "Tamsulosin 0.4mg",
+        "shape": "capsule",
+        "color": "orange and white",
+        "imprint": "GG 849"
+    },
+    {
+        "name": "Fluoxetine 20mg",
+        "shape": "capsule",
+        "color": "green and yellow",
+        "imprint": "E92"
+    },
+    {
+        "name": "Bupropion XL 300mg",
+        "shape": "round",
+        "color": "white",
+        "imprint": "WELLBUTRIN XL 300"
+    },
+    {
+        "name": "Oxycodone 10mg",
+        "shape": "round",
+        "color": "blue",
+        "imprint": "A 215"
+    },
+    {
+        "name": "Doxycycline 100mg",
+        "shape": "capsule",
+        "color": "green",
+        "imprint": "C-122"
+    }
+]

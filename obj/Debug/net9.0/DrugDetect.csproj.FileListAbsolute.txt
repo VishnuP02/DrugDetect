@@ -1,0 +1,15 @@
+/Users/vishnupillai/Desktop/DrugDetect/bin/Debug/net9.0/DrugDetect
+/Users/vishnupillai/Desktop/DrugDetect/bin/Debug/net9.0/DrugDetect.deps.json
+/Users/vishnupillai/Desktop/DrugDetect/bin/Debug/net9.0/DrugDetect.runtimeconfig.json
+/Users/vishnupillai/Desktop/DrugDetect/bin/Debug/net9.0/DrugDetect.dll
+/Users/vishnupillai/Desktop/DrugDetect/bin/Debug/net9.0/DrugDetect.pdb
+/Users/vishnupillai/Desktop/DrugDetect/obj/Debug/net9.0/DrugDetect.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vishnupillai/Desktop/DrugDetect/obj/Debug/net9.0/DrugDetect.AssemblyInfoInputs.cache
+/Users/vishnupillai/Desktop/DrugDetect/obj/Debug/net9.0/DrugDetect.AssemblyInfo.cs
+/Users/vishnupillai/Desktop/DrugDetect/obj/Debug/net9.0/DrugDetect.csproj.CoreCompileInputs.cache
+/Users/vishnupillai/Desktop/DrugDetect/obj/Debug/net9.0/DrugDetect.sourcelink.json
+/Users/vishnupillai/Desktop/DrugDetect/obj/Debug/net9.0/DrugDetect.dll
+/Users/vishnupillai/Desktop/DrugDetect/obj/Debug/net9.0/refint/DrugDetect.dll
+/Users/vishnupillai/Desktop/DrugDetect/obj/Debug/net9.0/DrugDetect.pdb
+/Users/vishnupillai/Desktop/DrugDetect/obj/Debug/net9.0/DrugDetect.genruntimeconfig.cache
+/Users/vishnupillai/Desktop/DrugDetect/obj/Debug/net9.0/ref/DrugDetect.dll
